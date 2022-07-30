@@ -65,3 +65,9 @@
     font-family: 'Poppins', sans-serif;
 
 }
+@media screen and (max-width:1550px) {
+    #board{
+      height: 60vh;
+      width: 60vh;
+    }
+  }
